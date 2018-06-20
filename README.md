@@ -2,6 +2,7 @@ To run on Android download the .apk from the link below:
 
 https://drive.google.com/open?id=1iljY57z4WIJKN1dZqhTA_3-t3YxUNkMw
 
+
 To run locally clone this repo and follow instructions below:
 
 ## Table of Contents
