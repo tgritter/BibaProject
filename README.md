@@ -1,6 +1,7 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+To run on Android download the .apk from the link below:
+https://drive.google.com/open?id=1iljY57z4WIJKN1dZqhTA_3-t3YxUNkMw
 
-Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
+To run locally clone this repo and follow instructions below:
 
 ## Table of Contents
 
